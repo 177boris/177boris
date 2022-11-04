@@ -1,7 +1,7 @@
-- 👋 Hello world! I’m @177boris
-- 👀 I’m interested in cloud computing, machine learning and AI 
-- 🌱 I’m currently learning to use AWS, Terraform and Kubernetes 
-- 💞️ I’m looking to collaborate on exciting projects that involve distributed systems with architectures that require high-availability and reliability 
+- 👋 fmt.Println("Hello world!" I’m @177boris)
+- 👀 print("I’m interested in cloud computing, machine learning and AI")
+- 🌱 System.out.println("I’m currently learning to use AWS, Terraform and Kubernetes")
+- 🌱 console.log("I’m looking to collaborate on exciting projects that involve distributed systems with architectures that include fault-tolerant design and reliability")
 
 
 <!---
