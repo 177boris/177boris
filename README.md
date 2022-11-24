@@ -1,10 +1,11 @@
--  👋 Hello world! I’m {177boris.name()}
--  I’m interested in 
+1. Hello world! I’m {177boris.name()} 👋
+
+2. I’m interested in 
    * Cloud computing
    * Networking 
    * CI/CD & DevOps
 
--  I’m currently learning 
+3. I’m currently learning 
    * AWS 
    * Terraform 
    * Docker & Kubernetes
@@ -12,7 +13,7 @@
    * Go
    * Data Structures & Algorithms (always...)
    
--  I’m looking to collaborate on exciting projects that involve distributed architectures requiring fault-tolerant design and high availability 
+4.  I’m looking to collaborate on exciting projects that involve distributed architectures requiring fault-tolerant design and high availability 
 
 
 <!---
