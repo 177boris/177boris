@@ -1,19 +1,19 @@
-1. Hello world! I’m {177boris.name()} 👋
+- 👋 Hello world! I’m {177boris.name()} 
 
-2. I’m interested in 
-   * Cloud computing
+- I’m interested in 
+   * Cloud computing (AWS)
+   * Web applications software development with Python (Django, Flask), and Go
    * Networking 
    * CI/CD & DevOps
 
-3. I’m currently learning 
+- I’m currently learning 
    * AWS 
    * Terraform 
-   * Docker & Kubernetes
-   * Github Actions
+   * Github Actions 
    * Go
    * Data Structures & Algorithms (always...)
    
-4.  I’m looking to collaborate on exciting projects that involve distributed architectures requiring fault-tolerant design and high availability 
+-  I’m looking to collaborate on agile software development projects that involve distributed architectures requiring fault-tolerant design and high availability 
 
 
 <!---
