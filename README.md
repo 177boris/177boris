@@ -1,7 +1,13 @@
 -  👋 Hello world! I’m {OB}
--  👀 I’m interested in cloud computing, networking and DevOps 
--  🌱 I’m currently learning AWS, Terraform and Kubernetes
--  🌱 I’m looking to collaborate on exciting projects that involve distributed architectures requiring fault-tolerant design considerations and reliability 
+-  👀 I’m interested in 
+  * Cloud computing
+  * Networking 
+  * CI/CD & DevOps
+-  🌱 I’m currently learning 
+   * AWS
+   * Terraform 
+   * Docker & Kubernetes
+-  🌱 I’m looking to collaborate on exciting projects that involve distributed architectures requiring fault-tolerant design and high availability 
 
 
 <!---
