@@ -3,10 +3,15 @@
    * Cloud computing
    * Networking 
    * CI/CD & DevOps
+
 -  I’m currently learning 
-   * AWS
+   * AWS 
    * Terraform 
    * Docker & Kubernetes
+   * Github Actions
+   * Go
+   * Data Structures & Algorithms (always...)
+   
 -  I’m looking to collaborate on exciting projects that involve distributed architectures requiring fault-tolerant design and high availability 
 
 
