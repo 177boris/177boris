@@ -1,4 +1,4 @@
-- 👋 Hello world! I’m {177boris.name()} 
+- 👋 Hello world! I’m Lanre 
 
 - I’m interested in 
    * Cloud computing (AWS)
