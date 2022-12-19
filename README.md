@@ -1,17 +1,17 @@
 - 👋 Hello world! I’m Lanre 
 
-- I’m interested in 
+- 🔭 I’m interested in 
    * Cloud computing (AWS)
-   * Web applications software development with Python (Django, Flask), and Go
+   * Automation, CI/CD & Infrastructure as Code (Terraform, AWS CloudFormation, AWS SAM)
    * Networking 
-   * CI/CD & DevOps
+   * Web applications software development with Python (Django, Flask), and Go
 
 - I’m currently learning 
    * AWS 
    * Terraform 
    * Github Actions 
    * Go
-   * Data Structures & Algorithms (always...)
+   * Data Structures & Algorithms in Python and Go (always...)
    
 -  I’m looking to collaborate on agile software development projects that involve distributed architectures requiring fault-tolerant design and high availability 
 
