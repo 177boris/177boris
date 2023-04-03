@@ -1,7 +1,7 @@
 👋 Hello world! I’m Lanre 
 
 
-⚡ My Interests:<br>- Cloud computing (AWS)<br>- Automation, CI/CD & Infrastructure as Code (Terraform, AWS CloudFormation, AWS SAM)<br>- Web application & software development with Python (Django, Flask), and Go<br>- Networking<br><br>🔭 I’m currently learning:<br>- AWS<br>- Terraform<br>- Github Actions<br>- Algorithms & Data Structures in Python and Go (always...)
+⚡ My Interests:<br>- Cloud computing (AWS & Azure)<br>- Automation, CI/CD & Infrastructure as Code (Terraform, AWS CloudFormation, AWS SAM)<br>- Web application & software development with Python (Django, Flask), and Go<br>- Networking<br><br>🔭 I’m currently learning:<br>- AWS<br>- Terraform<br>- Github Actions<br>- Algorithms & Data Structures in Python and Go (always...)
 
 
 ## 🌐 Socials:
