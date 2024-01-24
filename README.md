@@ -1,7 +1,7 @@
 👋 Hello world! I’m Lanre 
 
 
-⚡ My Interests:<br>- Cloud computing (AWS & Azure)<br>- DevOps & Infrastructure as Code - CI/CD, Terraform, CloudFormation<br>- Web application development<br>- Automation<br><br>🔭 I’m currently learning:<br>- AWS<br>- Terraform<br>- Github Actions / GitLab CI<br>- Docker & Elastic
+⚡ My Interests:<br>- Cloud computing (AWS & Azure)<br>- DevOps & Infrastructure as Code - CI/CD, Terraform, CloudFormation<br>- Automation<br>- Web application development<br><br>🔭 I’m currently learning:<br>- AWS<br>- Terraform<br>- Github Actions / GitLab CI<br>- Docker & Elastic
 
 
 # 💻 Tech Stack:
