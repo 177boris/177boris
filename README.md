@@ -1,7 +1,7 @@
-👋 Hello world! I’m Lanre 
+👋 I’m Lanre 
 
 
-⚡ My Interests:<br>- Cloud computing (AWS & Azure)<br>- DevOps & Infrastructure as Code - CI/CD, Terraform, CloudFormation<br>- Automation<br>- Web application development<br><br>🔭 I’m currently learning:<br>- AWS<br>- Terraform<br>- Kubernetes<br>- Docker <br>- Monitoring / ELK
+⚡ My Interests:<br>- Cloud computing (AWS, GCP, Azure)<br>- DevOps & Infrastructure as Code - CI/CD, Terraform, CloudFormation<br>- Automation<br>- Web application development<br><br>🔭 Learning:<br>- Terraform<br>- AWS<br>- GCP<br>- Kubernetes <br>- Docker <br>- Monitoring - Prometheus/Grafana, Wiz, Dynatrace, ELK
 
 
 # 💻 Tech Stack:
