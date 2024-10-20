@@ -1,7 +1,7 @@
 👋 I’m Lanre 
 
 
-⚡ My Interests:<br>- Cloud computing (AWS, GCP, Azure)<br>- DevOps & Infrastructure as Code - CI/CD, Terraform, CloudFormation<br>- Automation<br>- Web application development<br><br>🔭 Learning:<br>- Terraform<br>- AWS<br>- GCP<br>- Kubernetes <br>- Docker <br>- Monitoring with Prometheus/Grafana, Wiz, Dynatrace, ELK
+⚡ My Interests:<br>- Cloud computing (AWS, GCP, Azure)<br>- DevOps & Infrastructure as Code - CI/CD, Terraform, CloudFormation<br>- Automation<br>- Web application development<br><br>🔭 Learning:<br>- Terraform<br>- AWS<br>- GCP<br>- Kubernetes <br>- Docker <br>- Observability & Monitoring with Prometheus/Grafana, Wiz, Dynatrace, ELK
 
 
 # 💻 Tech Stack:
